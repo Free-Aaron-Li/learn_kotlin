@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="allowReplaceRegexp" value="20[2-3][0-9]" />
+    <option name="notice" value="Copyright (c) &amp;#36;originalComment.match(&quot;Copyright \(c\) (\d+)&quot;, 1, &quot;-&quot;, &quot;&amp;#36;today.year&quot;)&amp;#36;today.year. aaron.&#10;&#10;This program is under the GPL-3.0 license.&#10;if you have not received it or the program has a bug, please let me know: &#10;&lt;communicate_aaron@outlook.com&gt;." />
+    <option name="myName" value="GPL3.0" />
+  </copyright>
+</component>
