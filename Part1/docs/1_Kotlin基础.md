@@ -35,6 +35,8 @@ Kotlin类似java编译解释过程：
 
 ## Kotlin基本语法
 
+> 练习：[basic.kt](https://github.com/Free-Aaron-Li/learn_kotlin/blob/master/Part1/src/com/basic.kt)
+
 1. 标识符
    > Kotlin语言中标识符的命名规则：
    > > 1. 区分大小写
