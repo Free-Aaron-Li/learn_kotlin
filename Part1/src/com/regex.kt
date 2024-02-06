@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2023. aaron.
+ * Copyright (c) 2023-2024. aaron.
  *
  * This program is under the GPL-3.0 license.
  * if you have not received it or the program has a bug, please let me know:
